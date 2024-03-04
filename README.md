@@ -32,20 +32,9 @@ There is no need to clone this repository (unless you find any mistakes, and you
 
 ### Research a new language
 
-- Language: [Haskell](https://www.haskell.org/)
-- Useful resources:
-    - [Haskell Wiki](https://wiki.haskell.org/Haskell)
-    - [Building web apps with Haskell](https://haskell.dev/article/Building_web_applications_with_Haskell_A_beginners_guide.html)
-    - ["Learn You a Haskell for Great Good!"](https://www.learnyouahaskell.com/)
-Interesting facts:
-    - [Haskell on Wikipedia](https://en.wikipedia.org/wiki/Haskell)
-    - [Haskell on GitHub](https://github.com/topics/haskell)
+I've chosen the language [Haskell](https://www.haskell.org/). According to the [Haskell Wiki](https://wiki.haskell.org/Haskell), Haskell is primarily a research language that operates on the functional paradigm. Although it has historically been research-oriented, Haskell is used by many major organizations ([Introduction, Haskell Wiki](https://wiki.haskell.org/Introduction#Does_anyone_use_functional_programming.3F) and [Haskell, Wikipedia](https://en.wikipedia.org/wiki/Haskell#Industry)), and increasingly is used as an in-production language ([Haskell, GitHub](https://github.com/topics/haskell)) and one may even [build web apps using Haskell](https://haskell.dev/article/Building_web_applications_with_Haskell_A_beginners_guide.html)! 
 
-Some notes:
-    - Haskell is a purely functional programming language
-    - Often used for research
-    - Has been used more for production development in recent years
-    - Learning functional programming can be really hard when your experience is purely in object-oriented programming
+There are many useful resources for learning and using Haskell. The [Haskell Wiki](https://wiki.haskell.org/Haskell) includes links to most of them. A particularly much-loved text is ["Learn You a Haskell for Great Good!"](https://www.learnyouahaskell.com/), which is both practical and approachable in it's presentation of Haskell. This is particularly important, because programming in Haskell is programming in a pure functional language, which anyone coming from the OOP world will likely find challenging. 
 
 ## Conclusion
 The example above is a good approximation of what you should be doing on a weekly basis. Remember that the written work you do here is a record of the actual research work you've done, so feel free to use the document as a place to store notes and to commit changes with improvements and updates as you progress. In fact, check out the commit history for this README.md to see what I mean!
