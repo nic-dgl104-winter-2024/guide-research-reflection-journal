@@ -36,6 +36,16 @@ I've chosen the language [Haskell](https://www.haskell.org/). According to the [
 
 There are many useful resources for learning and using Haskell. The [Haskell Wiki](https://wiki.haskell.org/Haskell) includes links to most of them. A particularly much-loved text is ["Learn You a Haskell for Great Good!"](https://www.learnyouahaskell.com/), which is both practical and approachable in it's presentation of Haskell. This is particularly important, because programming in Haskell is programming in a pure functional language, which anyone coming from the OOP world will likely find challenging. 
 
+### Write a user story
+
+- App: [Garmin Connect](https://play.google.com/store/apps/details?id=com.garmin.android.apps.connectmobile)
+- Some features:
+    - Activities
+    - Heart rate
+    - Creating a workout
+    - Connections
+    - Sleep score
+
 ## Conclusion
 The example above is a good approximation of what you should be doing on a weekly basis. Remember that the written work you do here is a record of the actual research work you've done, so feel free to use the document as a place to store notes and to commit changes with improvements and updates as you progress. In fact, check out the commit history for this README.md to see what I mean!
 
