@@ -54,6 +54,7 @@ The programming language I choose to focus on for the rest of the semester is [P
 
 ### Star GitHub topics and repositories of interest
 
+I visited [GitHub Trending](https://github.com/trending) and starred the following repositories:
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim)
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
