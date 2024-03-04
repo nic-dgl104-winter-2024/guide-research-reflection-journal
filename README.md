@@ -43,6 +43,11 @@ The app I have chosen is [Garmin Connect](https://play.google.com/store/apps/det
 - As a user, I can see my average heart rate from my most recent activity.
 - As a user, I can complete a self-evaluation of my performance during an activity.
 
+Some acceptance criteria for the second user story:
+- Heart rate data should be visible as a numeric value in beats per minute (bpm).
+- Heart rate data should include a tag stating it is the average value, not the instantaneous value.
+- Tapping on the heart rate value should open up a details window of heart rate throughout the activity.
+
 ## Conclusion
 The example above is a good approximation of what you should be doing on a weekly basis. Remember that the written work you do here is a record of the actual research work you've done, so feel free to use the document as a place to store notes and to commit changes with improvements and updates as you progress. In fact, check out the commit history for this README.md to see what I mean!
 
