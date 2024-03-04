@@ -30,7 +30,22 @@ There is no need to clone this repository (unless you find any mistakes, and you
 
 > Make sure to use appropriate headings for each section!
 
+### Research a new language
 
+- Language: [Haskell](https://www.haskell.org/)
+- Useful resources:
+    - [Haskell Wiki](https://wiki.haskell.org/Haskell)
+    - [Building web apps with Haskell](https://haskell.dev/article/Building_web_applications_with_Haskell_A_beginners_guide.html)
+    - ["Learn You a Haskell for Great Good!"](https://www.learnyouahaskell.com/)
+Interesting facts:
+    - [Haskell on Wikipedia](https://en.wikipedia.org/wiki/Haskell)
+    - [Haskell on GitHub](https://github.com/topics/haskell)
+
+Some notes:
+    - Haskell is a purely functional programming language
+    - Often used for research
+    - Has been used more for production development in recent years
+    - Learning functional programming can be really hard when your experience is purely in object-oriented programming
 
 ## Conclusion
 The example above is a good approximation of what you should be doing on a weekly basis. Remember that the written work you do here is a record of the actual research work you've done, so feel free to use the document as a place to store notes and to commit changes with improvements and updates as you progress. In fact, check out the commit history for this README.md to see what I mean!
