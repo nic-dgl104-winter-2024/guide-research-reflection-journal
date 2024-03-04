@@ -52,6 +52,13 @@ Some acceptance criteria for the second user story:
 
 The programming language I choose to focus on for the rest of the semester is [Piet](https://www.dangermouse.net/esoteric/piet.html). I have no experience in this language, and I chose it purely because I wanted to pick something completely off-the-wall, which hopefully some readers will find amusing. Really though, I think it's a pretty novel idea and I would like to dig into how it operates. FYI, if you want to learn more about some very weird programming languages, check out the [Esolang Wiki](https://esolangs.org/wiki/Main_Page)! 
 
+### Star GitHub topics and repositories of interest
+
+- [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim)
+- [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+- [bigcode-project/starcoder2](https://github.com/bigcode-project/starcoder2)
+
 ## Conclusion
 The example above is a good approximation of what you should be doing on a weekly basis. Remember that the written work you do here is a record of the actual research work you've done, so feel free to use the document as a place to store notes and to commit changes with improvements and updates as you progress. In fact, check out the commit history for this README.md to see what I mean!
 
