@@ -85,7 +85,7 @@ I visited [GitHub Trending](https://github.com/trending) and starred the followi
 
 2. "Main Page". [Esolang Wiki](https://esolangs.org/wiki/Main_Page).
 
-3. Morgan-Mar, David. [Piet](https://www.dangermouse.net/esoteric/piet.html).
+3. Morgan-Mar, David. "Piet". [dangermouse.net](https://www.dangermouse.net/esoteric/piet.html).
 
 4. "Haskell". [Wikipedia](https://en.wikipedia.org/wiki/Haskell).
 
