@@ -73,6 +73,26 @@ I visited [GitHub Trending](https://github.com/trending) and starred the followi
 
 > This is recommended work, but you should always consider completing it. Reflecting on what you've done (especially if you can do so immediately after completing a task) is a very effective way to improve learning. I won't provide any examples for reflection question answers (I don't want to imply a specific approach), but as a guideline you should aim for a paragraph answer for each question. More is totally ok if you have a lot to say about a specific subject!
 
+### Bibliography
+
+> You don't need to use standard a bibliographic format (i.e. APA, MLA, etc.)unless you want to. However, you _must_ be consistent in how you display reference content (include author and date when available) and you _must never_ include bare urls (i.e. the must always be [hyperlinked!]())
+
+> The easiest way to manage your bibliography is just to add in a link here every time you find a new resource, then come back through later to do formatting.
+
+> You don't need to include references for all sites you've visited - only those that you've take some information from.
+
+1. "Building web applications with Haskell: A beginner's guide". [Haskell.dev](https://haskell.dev/article/Building_web_applications_with_Haskell_A_beginners_guide.html).
+
+2. "Main Page". [Esolang Wiki](https://esolangs.org/wiki/Main_Page).
+
+3. Morgan-Mar, David. [Piet](https://www.dangermouse.net/esoteric/piet.html).
+
+4. "Haskell". [Wikipedia](https://en.wikipedia.org/wiki/Haskell).
+
+5. "Main Page". [Haskell Wiki](https://wiki.haskell.org/Haskell).
+
+6. Lipovača, Miran. "Learn You a Haskell for Great Good!". [learnyouhaskell.com](https://www.learnyouahaskell.com/). 
+
 ## Conclusion
 The example above is a good approximation of what you should be doing on a weekly basis. Remember that the written work you do here is a record of the actual research work you've done, so feel free to use the document as a place to store notes and to commit changes with improvements and updates as you progress. In fact, check out the commit history for this README.md to see what I mean!
 
