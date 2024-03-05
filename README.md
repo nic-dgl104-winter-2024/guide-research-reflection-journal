@@ -81,6 +81,8 @@ I visited [GitHub Trending](https://github.com/trending) and starred the followi
 
 > You don't need to include references for all sites you've visited - only those that you've take some information from.
 
+> Notice that in the references below I have opted to include author where possible, and have listed the name of the article or page in quotations, followed by the name of the website. The link embedded in the name of the website points directly to the resource used, not to the main page of the site listed.
+
 1. "Building web applications with Haskell: A beginner's guide". [Haskell.dev](https://haskell.dev/article/Building_web_applications_with_Haskell_A_beginners_guide.html).
 
 2. "Main Page". [Esolang Wiki](https://esolangs.org/wiki/Main_Page).
